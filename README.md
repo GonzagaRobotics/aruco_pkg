@@ -26,3 +26,6 @@ These are the products we will create as a result of achieving these goals.
 * A set of models that detects, finds the relative heading of, and scans Aruco markers, called ArucoDetect. 
 
 * These models will be able to find the heading of the marker relative to the rover’s current heading to assist the ARCS in navigating to a position where the marker can be scanned, and the rover has arrived at the destination. 
+
+## References
+* Detection of ArUco Markers (Like the navigation tasks): https://docs.opencv.org/3.4/d5/dae/tutorial_aruco_detection.html
